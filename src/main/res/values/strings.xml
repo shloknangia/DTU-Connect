@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">DTU Connect</string>
+    <string name="log_in">Update Your Info</string>
+    <string name="become_a_donor">Become A Donor</string>
+    <string name="donor_list">Complete Donor List</string>
+    <string name="title_activity_login">Log In</string>
+    <string name="title_activity_signup">Sign Up</string>
+    <string name="title_activity_donor_list">Donor List</string>
+    <string-array name="branch_array">
+        <item>Select Branch</item>
+        <item>Chemical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Computer Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Mathematics And Computing</item>
+        <item>Engineering Physics</item>
+        <item>Software Engineering</item>
+        <item>Electronics And Communication</item>
+        <item>Mechanical And Automation</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="course_array">
+        <item>Select Course</item>
+        <item>B.tech</item>
+        <item>M.tech</item>
+        <item>Ph.D</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="year_array">
+        <item>Select Year</item>
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V(for Ph.D\'s)</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="bloodgroup_array">
+        <item>Please Select Your Blood Group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <string-array name="bloodgroup_array2">
+        <item>All</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <string name="title_activity_view_data">Complete Info</string>
+    <string name="title_activity_view_update">Personal Info</string>
+    <string name="title_activity_update">Update Info</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
